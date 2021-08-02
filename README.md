@@ -26,9 +26,9 @@
 
 ## <img src="https://github.com/Swetha126/Swetha126/blob/main/world.gif" width="24px"> &nbsp; Find me around the web : 
 
-<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/lekha__23"> &nbsp; swetha12602</a> 
+<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/lekha__23"> &nbsp; lekha__23</a> 
 
-<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/"> &nbsp; Swetha Ramachandran</a> 
+<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="www.linkedin.com/in/lekha-reddy-7b95871b1" /> <a href="https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/"> &nbsp; Lekha Reddy</a> 
 
 <div align="center">
 
