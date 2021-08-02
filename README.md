@@ -40,8 +40,3 @@
   </table>
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)   [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Lekha Reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lekha-reddy-7b95871b1/)](www.linkedin.com/in/lekha-reddy-7b95871b1/)
-[![MAIL Badge](https://img.shields.io/badge/-swetharamachandran126@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swetharamachandran126@gmail.com)](mailto:swetharamachandran126@gmail.com)
-</div></p>
