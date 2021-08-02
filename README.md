@@ -1,13 +1,13 @@
-## Hi there 👋 I'm Swetha 🙋‍♀️ CSE IOT student at SRM University
+## Hi there 👋 I'm Lekhasree🙋‍♀️ CSE IOT student at SRM University
 
 <img align='right' src="https://github.com/Swetha126/Swetha126/blob/main/work.gif" width="300px">
  
- - 🔭 I’m currently working on Open Source 
- - 🌱 I’m currently learning Cloud Computing and Data Structures 
+ - 🔭 I’m currently pursuing B.Tech Computer science with specialization in Internet of things 
+ - 🌱 I’m currently learning Data Structures 
  - 👯 I’m looking to collaborate on interesting projects
  - 💬 Ask me about Anything 
  - 😄 Pronouns: She/Her 
- - ⚡ Music Lover 
+ - ⚡ Love to travel
 
 
 
@@ -21,13 +21,12 @@
 <img src="https://github.com/Swetha126/Swetha126/blob/main/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Swetha126/Swetha126/blob/main/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Swetha126/Swetha126/blob/main/Picture1.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Swetha126/Swetha126/blob/main/Picture3.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Swetha126/Swetha126/blob/main/Picture2.png" alt="GC" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## <img src="https://github.com/Swetha126/Swetha126/blob/main/world.gif" width="24px"> &nbsp; Find me around the web : 
 
-<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/swetha12602"> &nbsp; swetha12602</a> 
+<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href=""> &nbsp; swetha12602</a> 
 
 <img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/"> &nbsp; Swetha Ramachandran</a> 
 
